@@ -25,6 +25,7 @@ npm install
 npm run build
 ```
 
+
 Der fertige `dist/`-Ordner kann auf jeden Webserver kopiert werden.
 
 ---
